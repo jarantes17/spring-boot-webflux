@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/codecentric/springboot-sample-app/badge.svg?branch=master)](https://coveralls.io/github/codecentric/springboot-sample-app?branch=master)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-Simple application using spring boot with kotlin reactive module [Spring Boot](http://projects.spring.io/spring-boot/). This project is based on [this other project in java](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHU3cjdUemNNTFNoaHlqQVA2RV91RUx1clBxUXxBQ3Jtc0tuMi00Q09VaFVCRVdVMklLV2RlLVdPR1JHdVVvS3JvQTVGbU9pcmRXU29UcVZqTTZXcDRIUE1sV19iay1PcU02MnZHd0xtcG1ibmFnZ1F4T2tmazk0V3l1ZEhvZnFRNVBoZGJrc2t5aEtUUjR3enJHdw&q=https%3A%2F%2Fgithub.com%2FMichelliBrito%2Fapirest-webflux&v=cWvwjCObkxQ).
+Simple application using spring boot with kotlin reactive module [Spring Boot](http://projects.spring.io/spring-boot/). This project is based on [this other project in java](https://github.com/MichelliBrito/apirest-webflux).
 
 ## Requirements
 
